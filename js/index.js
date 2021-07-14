@@ -294,7 +294,7 @@ window.requestAnimFrame = function () {
     }
   
     var ifrm = document.createElement("iframe");
-    ifrm.setAttribute("src", "https://www.dropbox.com/s/qp3nxd3xm4ixutj/lv_0_202110715041623.mp4?dl=0");
+    ifrm.setAttribute("src", "https://drive.google.com/file/d/lofSHXpthyQ_89cfJTDkQ185fKryUHDpf/view?usp=drivesdk");
     //ifrm.style.width = `${w}px`;
     //ifrm.style.height = `${h}px`;
     ifrm.style.border = 'none';
